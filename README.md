@@ -1,3 +1,6 @@
+# Intern id
+CITS1883
+
 # Dependency directories
 node_modules/
 backend/node_modules/
